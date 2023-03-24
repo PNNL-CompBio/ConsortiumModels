@@ -1,0 +1,3 @@
+file,kingdom,phylum,class,order,family,genus,species
+./azo_vine.xml,bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Azotobacter,A. vinelandii
+./Rt_IFO0880.xml,fungi,a,Ustilaginomycetes,b,c,Rhodosporidium,R. toruloides
