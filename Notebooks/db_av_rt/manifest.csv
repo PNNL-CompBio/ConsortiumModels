@@ -1,0 +1,3 @@
+file,kingdom,phylum,class,order,family,genus,species,id,summary_rank
+Azotobacter.json,bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Azotobacter,A. vinelandii,Azotobacter,genus
+Rhodosporidium.json,fungi,a,Ustilaginomycetes,b,c,Rhodosporidium,R. toruloides,Rhodosporidium,genus
