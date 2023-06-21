@@ -4,8 +4,8 @@ import pandas as pd
 import binary_models.helpers as helpers
 
 _suffix = 'se_rt'
-m_names = ['Rhodosporidium', 'Synechococcus']
-f_names = ['Rhodo_Toru.xml', 'syn_elong.xml']
+m_names = ['Azotobacter', 'Synechococcus']
+f_names = ['avine.xml', 'syn_elong.xml']
 
 path = pathlib.Path(__file__).parent
 

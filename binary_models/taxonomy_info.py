@@ -1,15 +1,22 @@
 tax_dict = {
-    'RT':
+    'Rhodosporidium':
         {
             'genus': 'Rhodosporidium',
             'species': 'R. toruloides',
             'sample_id': 'One',
             'abundance': 500
         },
-    'syn_elong':
+    'Synechococcus':
         {
             'genus': 'Synechococcus',
             'species': 'S. elongatus',
+            'sample_id': 'One',
+            'abundance': 500
+        },
+    'Azotobacter':
+        {
+            'genus': 'Azotobacter',
+            'species': 'A. vinelandii',
             'sample_id': 'One',
             'abundance': 500
         }
