@@ -18,7 +18,7 @@ def load_community_model(prep_files=False):
     mani_exists = pathlib.Path(model_folder).joinpath('manifest.csv').exists()
     if prep_files or not mani_exists:
         manifest = helpers.prepare_files(
-            m_names, f_names, _mani_path, _db_path, model_folder
+            m_names, f_names, _mani_path, _db_path, model_folder, path
         )
     else:
         manifest = pd.read_csv(
